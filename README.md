@@ -193,12 +193,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Please use the GitHub Issues page to report bugs or request features.
 
-📞 Support
-
-- Documentation: Wiki
-- Issues: GitHub Issues
-- Discussions: GitHub Discussions
-
 🏆 Acknowledgments
 
 - Thanks to the PowerShell community for inspiration and best practices
